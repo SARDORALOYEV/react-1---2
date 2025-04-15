@@ -10,9 +10,9 @@ import logo5 from './assets/Logo-4.svg';
 import logo6 from './assets/Logo-5.svg';
 import logo7 from './assets/Logo-6.svg';
 import rafiki from './assets/rafiki.svg';
-import icon1 from './assets/icon.svg';
-import icon2 from './assets/icon (1).svg';
-import icon3 from './assets/icon (2).svg';
+import icon1 from './assets/Icon.svg';  
+import icon2 from './assets/Icon (1).svg';
+import icon3 from './assets/Icon (2).svg';
 
 const App = () => {
   const [isModalOpen, setModalOpen] = useState(false);
